@@ -1,1 +1,5 @@
-<?php echo 'product'; ?>
+@extends('layouts.master')
+
+@section('content')
+    
+@endsection

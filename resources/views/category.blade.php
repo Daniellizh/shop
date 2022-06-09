@@ -1,1 +1,5 @@
-<?php echo 'category' ?>
+@extends('layouts.master')
+
+@section('content')
+    
+@endsection
