@@ -22,4 +22,3 @@ Route::get('/product', 'MainController@product')->name('product');
 
 Route::get('/basket', 'MainController@basket')->name('basket');
 Route::get('/basket/order', 'MainController@basketOrder')->name('basketOrder');
-// Route::get('/basket/order', 'MainController@basketOrder')->name('basketOrder');
